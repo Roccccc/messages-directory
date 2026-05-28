@@ -1,6 +1,6 @@
 # Messages Directory App
 
-**CS5450 Mobile Programming — Exercise 3**
+** Mobile Programming — Exercise 3**
 
 A React Native message directory app built with **Expo** and **TypeScript**. The app displays a list of message categories. When you tap a category, you see the saved messages for that folder.
 
@@ -117,6 +117,5 @@ Add screenshots to `docs/screenshots/`:
 
 ## Author
 
-[Your Name]  
-[Your Student ID]  
-CS5450 — Mobile Programming
+YIPENG HUANG
+1276932
